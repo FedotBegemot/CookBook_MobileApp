@@ -1,2 +1,2 @@
 # MobileApp
-- *[APK](https://github.com/FedotBegemot/MobileApp/blob/master/app-debug.apk)**
+- *[APK](https://github.com/FedotBegemot/MobileApp/blob/master/app-debug.apk)*
